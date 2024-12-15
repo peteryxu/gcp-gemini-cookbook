@@ -1,0 +1,18 @@
+{
+  "contents":[
+    {
+      "parts":[
+        {"text": "This image contains a sketch of a potential product along with some notes. \
+        Given the product sketch, describe the product as thoroughly as possible based on what you \
+        see in the image, making sure to note all of the product features. Return output in json format: \
+        {description: description, features: [feature1, feature2, feature3, etc]}"},
+        {
+          "inline_data": {
+            "mime_type":"image/jpeg",
+            "data": ""
+          }
+        }
+      ]
+    }
+  ]
+}
